@@ -51023,7 +51023,7 @@ $ir:1}
 A.a8k.prototype={
 a6n(){}}
 A.a8l.prototype={
-gatK(){return"http://10.10.11.184:9922/"}}
+gatK(){return"https://posmobile-api-uat.concung.vn/"}}
 A.v6.prototype={}
 A.NH.prototype={
 jg(a,b){var s,r,q,p,o="Not enough bytes available.",n=b.f,m=n+1
