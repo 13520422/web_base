@@ -98,21 +98,21 @@ function getDataSync() {
     return JSON.stringify(data);
 }
 // syncData(JSON.stringify({
-//     "version": 20221002,
-//     "listOutputForm": [
-//         { "name": "Tất cả", "type": 0 },
-//         { "name": "Xuất bán trực tiếp", "type": 1 },
-//         { "name": "Xuất bán hàng online", "type": 2 }
+//     'version': 20221002,
+//     'listOutputForm': [
+//         { 'name': 'Tất cả', 'type': 0 },
+//         { 'name': 'Xuất bán trực tiếp', 'type': 1 },
+//         { 'name': 'Xuất bán hàng online', 'type': 2 }
 //     ],
-//     "listOutputType": [
-//         { "name": "Tất cả", "type": 0 },
-//         { "name": "App bán hàng", "type": 1 },
-//         { "name": "PosMobile", "type": 7 }
+//     'listOutputType': [
+//         { 'name': 'Tất cả', 'type': 0 },
+//         { 'name': 'App bán hàng', 'type': 1 },
+//         { 'name': 'PosMobile', 'type': 7 }
 //     ],
-//     "listOutputSaleType": [
-//         { "name": "Phiếu xuất", "type": 1 },
-//         { "name": "Sản phẩm", "type": 2 },
-//         { "name": "Khách hàng", "type": 3 }
+//     'listOutputSaleType': [
+//         { 'name': 'Phiếu xuất', 'type': 1 },
+//         { 'name': 'Sản phẩm', 'type': 2 },
+//         { 'name': 'Khách hàng', 'type': 3 }
 //     ]
 
 // }))
